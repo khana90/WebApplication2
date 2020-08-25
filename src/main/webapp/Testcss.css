@@ -1,0 +1,76 @@
+
+/* 
+    Created on : 26-Aug-2020, 00:35:30
+    Author     : A
+*/
+
+<!DOCTYPE html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+
+.container {
+
+}
+
+.row {
+
+}
+
+.panel {
+
+}
+
+.panel-primary {
+
+}
+
+.panel-body {
+
+}
+.table{
+    align : center;
+}
+
+body
+{
+    font-family: "Open Sans";
+}
+#wrapper
+{
+    border: 1px solid #888;
+    display: inline-block;
+    padding:20px;
+
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+label {
+    padding: 10px 20px;
+    background-color: orange;
+    border: thin solid darkorange;
+    border-radius: 10px;
+    margin:5px;
+    display: inline-block;
+}
+
+input[type="radio"]:checked + label {
+    background-color: darkblue;
+    cursor: default;
+    color: #E6E6E6;
+}
+
+</html>
