@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">  
-        <link rel="stylesheet" href ="LiveJ.css">  
+        <link rel="stylesheet" href ="style.css">  
     </head>
     <div class ="header" color:blue>
          <center><hi>Login Page </hi> </center> </div>
